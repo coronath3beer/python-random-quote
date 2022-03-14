@@ -6,5 +6,5 @@ def primary():
   f.close()
 
   print(quotes[0])
-  if__name__== "__main__":
-  primary()
+  if __name__== "__main__":
+   primary()
